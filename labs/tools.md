@@ -8,11 +8,7 @@ Install the IBM® Cloud Private command line interface (CLI) cloudctl.  This CLI
 
 __NOTICE:__ Some of the following instructions utilize the __'curl'__ command. If curl is not installed on your laptop it must first be installed to complete this lab. 
 
-Select a CLI tool and scroll to the desired operating system then follow the installation instructions. <br>
-
-[cloudctl - IBM Cloud Private CLI](#cloudctl)  
-[docker - Docker CLI](#docker)   
-[kubectl - Kubernetes CLI](#kubectl)
+Scroll to a CLI tool and desired operating system then follow the installation instructions. <br>
 
 
 ----
