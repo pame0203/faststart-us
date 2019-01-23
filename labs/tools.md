@@ -1,9 +1,9 @@
 
 #### Lab Tools
 
-### cloudctl
+## cloudctl
 
-#### Lab objectives
+#### Objectives
 <br>
 
 Install the IBM® Cloud Private command line interface (CLI) cloudctl.  This CLI is used to create, access, and manage ICP clusters.
@@ -14,10 +14,7 @@ Scroll to the appropriate operating system and follow the installation instructi
 
 ----
 
-* K8 yaml	- [avail.yaml](https://github.ibm.com/daveweilert/faststart-us/blob/master/scripts/avail.yaml)
-
-
-<img align="left" width="63" height="81" src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/mac_logo.png">&nbsp;
+<img align="left" width="63" height="81" src="/mdimages/mac_logo.png">&nbsp;
 ### &nbsp;&nbsp;macOS 
 
 <br>
@@ -30,7 +27,7 @@ Replace <ICP IP> with the IP address of the IBM Cloud Private instance from wher
 Example file name from the above curl command:
 
 <p align="center">
-<img src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/cloudctl_file_macos.png">
+<img src="/mdimages/cloudctl_file_macos.png">
 </p>
 
 2 - Rename the above downloaded file to cloudctl.  
@@ -52,7 +49,7 @@ Example file name from the above curl command:
 
 ----
 
-<img align="left" width="63" height="81" src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/linux.png">&nbsp;
+<img align="left" width="63" height="81" src="/mdimages/linux.png">&nbsp;
 ### &nbsp;&nbsp;Linux 
 
 <br>
@@ -65,7 +62,7 @@ Replace <ICP IP> with the IP address of the IBM Cloud Private instance from wher
 Example file name from the above curl command:
 
 <p align="center">
-<img src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/cloudctl_file_linux.png">
+<img src="/mdimages/cloudctl_file_linux.png">
 </p>
 
 
@@ -89,7 +86,7 @@ Example file name from the above curl command:
 
 ----
 
-<img align="left" width="81" height="63" src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/windows10_logo.png">&nbsp;
+<img align="left" width="81" height="63" src="/mdimages/windows10_logo.png">&nbsp;
 ### Windows 
 
 <br>
@@ -103,7 +100,7 @@ Replace <ICP IP> with the IP address of the IBM Cloud Private instance from wher
 Example file name from the above curl command:
 
 <p align="center">
-<img src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/cloudctl_file_windows.png">
+<img src="/mdimages/cloudctl_file_windows.png">
 </p>
 
 2 - Run the above file to install the CLI on the Windows system.
@@ -114,7 +111,7 @@ Example file name from the above curl command:
 
 <br><br>
 
-## Verify the CLI is installed
+#### Verify the CLI is installed
 
 From a terminal or command prompt enter:
 
@@ -124,9 +121,18 @@ From a terminal or command prompt enter:
 Example output:
 
 <p align="center">
-<img src="https://github.com/IBM-ICP-CoC/faststart-us/blob/master/images/cloudctl_verify.png">
+<img src="/mdimages/cloudctl_verify.png">
 </p>
 
+
+#### Hint Tools
+
+No hint available for this lab.
+
+#### Answer Tools
+
+
+> Confirm Tools complete
 
 
 ----
