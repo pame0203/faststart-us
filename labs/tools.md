@@ -211,6 +211,11 @@ Example output:
 ### &nbsp;&nbsp;macOS 
 
 <br>
+#### Kubernetes web site
+
+Use instructions from official Kubernetes [site](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl)
+
+#### Download from ICP site using curl
 1 - Download the macOS CLI to install:
 
 Replace <ICP IP> with the IP address of the IBM Cloud Private instance from where the CLI will be obtained.
