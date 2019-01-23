@@ -17,7 +17,7 @@ Scroll to the appropriate operating system and follow the installation instructi
 * K8 yaml	- [avail.yaml](https://github.ibm.com/daveweilert/faststart-us/blob/master/scripts/avail.yaml)
 
 
-<img align="left" width="63" height="81" src="https://github.com//faststart-us/blob/master/images/mac_logo.png">&nbsp;
+<img align="left" width="63" height="81" src="https://github.com/IBM-ICP-=CoC/faststart-us/blob/master/images/mac_logo.png">&nbsp;
 ### &nbsp;&nbsp;macOS 
 
 <br>
@@ -52,7 +52,7 @@ Example file name from the above curl command:
 
 ----
 
-<img align="left" width="63" height="81" src="/images/linux.png">&nbsp;
+<img align="left" width="63" height="81" src="https://github.com/IBM-ICP-=CoC/faststart-us/blob/master/images/linux.png">&nbsp;
 ### &nbsp;&nbsp;Linux 
 
 <br>
@@ -89,7 +89,7 @@ Example file name from the above curl command:
 
 ----
 
-<img align="left" width="81" height="63" src="/images/windows10_logo.png">&nbsp;
+<img align="left" width="81" height="63" src="https://github.com/IBM-ICP-=CoC/faststart-us/blob/master/images/windows10_logo.png">&nbsp;
 ### Windows 
 
 <br>
@@ -124,7 +124,7 @@ From a terminal or command prompt enter:
 Example output:
 
 <p align="center">
-<img src="/images/cloudctl_verify.png">
+<img src="https://github.com/IBM-ICP-=CoC/faststart-us/blob/master/images/cloudctl_verify.png">
 </p>
 
 ----
