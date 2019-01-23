@@ -127,6 +127,12 @@ Example output:
 <img src="https://github.com/IBM-ICP-=CoC/faststart-us/blob/master/images/cloudctl_verify.png">
 </p>
 
+
+<p align="center">
+<img src="/images/cloudctl_verify.png">
+</p>
+
+
 ----
 
 #### Return to Agenda
