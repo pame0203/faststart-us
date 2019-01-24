@@ -17,7 +17,7 @@ Scroll to a CLI tool and desired operating system then follow the installation i
 ## cloudctl
 
 
-<img align="left" width="63" height="81" src="/mdimages/mac_logo.png">&nbsp;
+<img align="left" width="63" height="81" src="mdimages/mac_logo.png">&nbsp;
 ### &nbsp;&nbsp;macOS 
 
 <br>
@@ -322,6 +322,10 @@ Example output:
 </p>
 
 Once logged in an authenticated with a kubernetes cluster the error portion of the above message will not be shown.
+
+
+
+> Confirm Tools complete
 
 ----
 ----
